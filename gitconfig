@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = diersthibault@gmail.com
+	name = Thibault Diers
